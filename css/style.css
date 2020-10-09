@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url(/img/bg.png);
+  background: url(img/bg.png);
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
